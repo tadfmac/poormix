@@ -23,9 +23,9 @@ Its open-source, simple, compact and easy to build!
 
 # parts list
 
-- Capacitor 1000uF (Dia 10mm) * 2
-- Capacitor 3.3〜10uF (Dia 3mm) * 2
-- Capacitor 33〜47uF (Dia 4mm) * 2
+- Capacitor 1000uF (Dia 10mm) * 2 (C20,C21)
+- Capacitor 3.3〜10uF (Dia 3mm) * 2 (C15,C16)
+- Capacitor 33〜47uF (Dia 4mm) * 2 (C10,C11)
 - Capacitor 1uF (0805) * 8
 - Capacitor 0.1uF (0805)  * 2
 - Resister 100KΩ (0805) * 2

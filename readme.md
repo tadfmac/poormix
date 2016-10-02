@@ -1,4 +1,4 @@
-![poormix](./poormix.png)
+![poormix](./poormix.jpg)
 
 # poorMix
 

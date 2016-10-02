@@ -1,8 +1,8 @@
 ![poormix](./poormix.jpg)
 
-# poorMix
+# PoorMix
 
-The `poorMix` is a four channel inputs and two channel outputs audio mixer.
+The `PoorMix` is a four channel inputs and two channel outputs audio mixer.
 Its open-source, simple, compact and easy to build!
 
 # features
